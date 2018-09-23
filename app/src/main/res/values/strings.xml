@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TipCalculator_Patel</string>
+    <string name="TipCalculator">Tip Calculator</string>
+    <string name="TipAmount">Enter your check amount:</string>
+    <string name="Sign">$</string>
+    <string name="TipPercent">Select a tip percentage:</string>
+    <string name="Ten">10%</string>
+    <string name="Twenty">20%</string>
+    <string name="Thirty">30%</string>
+    <string name="CalculateTotal">Calculate</string>
+    <string name="the_total_check_amount">The total check amount</string>
+
+</resources>
